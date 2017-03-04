@@ -75,7 +75,7 @@ def main():
         return
 
     setBGP(token,'222','b')
-    print('a')
+    print('abc')
     #print(getBgpNeighbors(token, '222', 'a'))
     #interfaces = (getConfiguredInterfaces(token))
 
